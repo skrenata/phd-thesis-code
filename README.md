@@ -1,6 +1,6 @@
 # phd-thesis-code
 
-`the scripts are currently being formatted and commented, in order to make them more readily usable. This repository will be updated as this progresses, and this sentence will be removed once all files have been uploaded.`
+`The scripts are currently being formatted and commented, in order to make them more readily usable. This repository will be updated as this progresses, and this sentence will be removed once all files have been uploaded.`
 
 Archive of R scripts and functions used for data analysis in my PhD thesis, "Dynamics, control and variability of plankton in the Northeast Atlantic and North Sea between 1958-2014". This work was developed at the University of Southampton (UK) with funding by CAPES (Brazil). 
 

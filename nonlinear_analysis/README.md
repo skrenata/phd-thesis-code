@@ -1,2 +1,2 @@
 Apply nearest neighbours forecasts of time-series in order to investigate the presence of deterministic chaos in the data. Based on ideas from [Sugihara and May, 1990](https://www.nature.com/articles/344734a0) and [Ascioti et al., 1993](https://academic.oup.com/plankt/article/15/6/603/1522137).
-Uses functions from [R package "rEDM"](https://cran.r-project.org/web/packages/rEDM/vignettes/rEDM-tutorial.html) to investigate the presence of nonlinearity in time-series.
+Uses functions from [R package "rEDM"](https://cran.r-project.org/web/packages/rEDM/vignettes/rEDM-tutorial.html) by Ye et al. to investigate the presence of nonlinearity in time-series.

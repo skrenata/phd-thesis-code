@@ -1,3 +1,7 @@
+# UPDATE
+
+Due to a change in circumstances, I'm unlikely to be able to upload these any time soon. If by any reason you would like access to this code, please contact me to request the "raw" uncommented version of the scripts.
+
 # phd-thesis-code
 
 `The scripts are currently being formatted and commented, in order to make them more readily usable. This repository will be updated as this progresses, and this sentence will be removed once all files have been uploaded.`
